@@ -1,0 +1,54 @@
+header{
+    background-color: goldenrod;
+    text-align: center;
+    text-decoration: double;
+    height: 100px;
+    text-size-adjust: 500px;
+}
+.H{
+    text-decoration: solid;
+    size: 500px;
+}
+.one{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+}
+.wd{
+    height: auto;
+    width: auto;
+
+}
+.logo{
+    height: 100px;
+    width: 100px;
+}
+body{
+    background-color: #e9e3e6;
+}
+.centered-content{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 500px;
+    height: auto;
+    }
+.bold-text{
+    font-weight: bold;
+}
+h2{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+.mail{
+    color: goldenrod;
+}
+.footer{
+    background-color:  #d7263d;
+    font-style: oblique;
+    
+}
+.sign{
+    text-align: center;
+}
